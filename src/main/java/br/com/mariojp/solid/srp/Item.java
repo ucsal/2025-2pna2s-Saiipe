@@ -24,7 +24,5 @@ public class Item {
 	public int getQuantity() {
 		return quantity;
 	}
-	
-	
-	
+
 }
